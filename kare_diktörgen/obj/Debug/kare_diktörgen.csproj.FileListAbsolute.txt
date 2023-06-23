@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\bin\Debug\kare_diktörgen.exe.config
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\bin\Debug\kare_diktörgen.exe
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\bin\Debug\kare_diktörgen.pdb
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.Form1.resources
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.Properties.Resources.resources
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.exe
+C:\Users\USER\Desktop\ilkders\kare_diktörgen\kare_diktörgen\obj\Debug\kare_diktörgen.pdb
